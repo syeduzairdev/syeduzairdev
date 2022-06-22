@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋, I'm Uzair
 
 <!--
-**SyedUzair42101/SyedUzair42101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on Android application development and Cyber security. I'm sharing my projects and exercises. I'm currently learning Dart and Javascript.
 
 Here are some ideas to get you started:
 
