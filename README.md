@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uzair</h1>
 <h3 align="center">I'm working as Fluttter Developer. I'm sharing my projects and exercises. I'm currently learning Flutter advance.</h3></p>
 - 👯 I’m looking to collaborate on **Flutter Projects**</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
