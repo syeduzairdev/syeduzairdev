@@ -4,6 +4,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 - 👯 I’m looking to collaborate on **Flutter Projects**</p>
+- Skills: FLUTTER / GRAPHQL / PYTHON / DART/ C#
+
+- 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
+- 🌱 I’m currently learning GraphQl Hasura.
+- 📫 I am also a Flutter Trainer.
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
