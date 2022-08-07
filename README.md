@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Uzair</h1>
+
 <h3 align="center">I'm working as Fluttter Developer. I'm sharing my projects and exercises. I'm currently learning Flutter advance.</h3></p>
+[![wakatime](https://wakatime.com/badge/user/95cc268b-6e4f-469d-8aee-c933dee3f3be.svg)](https://wakatime.com/@95cc268b-6e4f-469d-8aee-c933dee3f3be)
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=hassan-zafar&label=Profile%20views&color=0e75b6&style=plastic" alt="hassan-zafar" /> 
+	<a href = "https://commits.top/pakistan.html" target="_blank">
+<!-- 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="hassan-zafar" target="_blank"/>  -->
+	</a>
 - 👯 I’m looking to collaborate on **Flutter Projects**</p>
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
 
