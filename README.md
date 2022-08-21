@@ -31,6 +31,8 @@
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
 - 🌱 I’m currently learning GraphQl Hasura.
 - 📫 I am also a Flutter Trainer.
+- 💻 Creating beautiful apps in [Flutter][flutter] with 💙
+- 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
 <!-- <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
  -->
 
