@@ -32,7 +32,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedUzair42101&show_icons=true&locale=en" alt="SyedUzair42101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedUzair42101&show_icons=true&locale=en" alt="SyedUzair42101&theme=gotham" /></p>
 <p align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedUzair42101&" alt="SyedUzair42101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedUzair42101&" alt="SyedUzair42101&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500" /></p>
 
