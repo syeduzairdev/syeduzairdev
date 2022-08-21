@@ -25,9 +25,8 @@
 ### A Software Developer
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
+- 💻 SKILLS: FLUTTER || GRAPHQL || PYTHON || DART || C# || OOP
 - 👯 I’m looking to collaborate on **Flutter Projects**</p>
-- SKILLS: FLUTTER / GRAPHQL / PYTHON / DART/ C#
-
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
 - 🌱 I’m currently learning GraphQl Hasura.
 - 📫 I am also a Flutter Trainer.
