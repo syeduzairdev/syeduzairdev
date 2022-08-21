@@ -33,14 +33,13 @@
 <code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+
 
 ### 📝 My GitHub Stats</summary>
+[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=SyedUzair42101&theme=gotham)](https://github.com/SyedUzair42101/github-readme-stats)
+<br><br>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=SyedUzair42101&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
+<br>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedUzair42101&show_icons=true&locale=en" alt="SyedUzair42101&theme=gotham" /></p>
-<p align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedUzair42101&" alt="SyedUzair42101&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500" /></p>
+An avid learner from <b>Pakistan<b> 💚
 
