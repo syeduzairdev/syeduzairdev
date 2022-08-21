@@ -1,8 +1,5 @@
 ## Hi there, I'm Uzair 👋
 
-### LETS CONNECT 
-
-
 <div align="center">
 <p align="center">Let's connect!</p>
 
