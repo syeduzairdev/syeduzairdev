@@ -60,3 +60,8 @@
 
 An avid learner from <b>Pakistan<b> 💚
 
+[flutter]: https://flutter.dev
+[linkedin]: https://www.linkedin.com/in/syed-uzair-hassan-503640246/
+[instagram]: https://www.instagram.com/syed_uzair1113/
+[facebook]: https://www.facebook.com/profile.php?id=100012057458839
+ 
