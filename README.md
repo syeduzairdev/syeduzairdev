@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="[https://stackoverflow.com/users/10482516/ahmad-khan?tab=profile](https://dev.to/syeduzair42101)">
+<a href="https://dev.to/syeduzair42101">
     <img src="https://img.shields.io/badge/DEV_COMMUNITY-FE7A16?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 </div>
