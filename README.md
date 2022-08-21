@@ -22,7 +22,7 @@
 <br>
 
 
-<h3 align="center">I'm working as Fluttter Developer. I'm sharing my projects and exercises. I'm currently learning Flutter advance.</h3></p>
+### A Software Developer,
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 - 👯 I’m looking to collaborate on **Flutter Projects**</p>
