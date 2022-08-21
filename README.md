@@ -31,8 +31,8 @@
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
 - 🌱 I’m currently learning GraphQl Hasura.
 - 📫 I am also a Flutter Trainer.
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
-
+<!-- <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
+ -->
 
  ### Languages & Tools
  
