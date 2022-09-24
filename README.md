@@ -1,4 +1,4 @@
-## Hi there, I'm Uzair 👋
+## Hi there, I'm Uzair (Technotherapist) 👋
 
 <div align="center">
 <p align="center">Let's connect!</p>
