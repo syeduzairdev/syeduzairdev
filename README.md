@@ -1,6 +1,6 @@
 ## Hi there, I'm Uzair (Technotherapist) 👋
 
-I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
+I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Flutter+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
