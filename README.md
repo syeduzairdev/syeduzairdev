@@ -29,7 +29,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ### A Software Developer
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 💻 SKILLS: FLUTTER || VUE.JS || GRAPHQL || PYTHON || DART || C# || OOP</p>
+- 💻 SKILLS: FLUTTER || VUE.JS || GRAPHQL || NODE JS || PYTHON || DART || C# || OOP</p>
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
 - 🌱 I’m currently learning BlockChain in Flutter.
