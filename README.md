@@ -32,7 +32,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 - 💻 SKILLS: FLUTTER || VUE.JS || GRAPHQL || NODE JS || PYTHON || DART || C# || OOP</p>
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
-- 🌱 I’m currently learning BlockChain in Flutter.
+- 🌱 I’m currently learning Node Js in Flutter.
 - 📫 I am also a Flutter Trainer.
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
 - 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
