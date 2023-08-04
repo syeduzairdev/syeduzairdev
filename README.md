@@ -1,7 +1,7 @@
  ## Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Uzair (Technotherapist) <br>
 I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Full+Stack+Developer+with+3+Years+Of+Experience;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Web+Applications;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Full+Stack+Developer+with+2%4B+Years+Of+Experience;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Web+Applications;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
 <div align="center">
