@@ -3,7 +3,6 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Full+Stack+Developer+with+2%4B+Years+Of+Experience;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Web+Applications;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
-
 <div align="center">
 <p align="center">Let's connect!</p>
 
