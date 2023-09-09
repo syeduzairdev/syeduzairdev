@@ -51,6 +51,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 An avid learner from <b>Pakistan<b> 💚
 
 [flutter]: https://flutter.dev
+[wordPress]: https://uzairhassan.com/websites-projects/
 [linkedin]: https://www.linkedin.com/in/syed-uzair-hassan-503640246/
 [instagram]: https://www.instagram.com/syed_uzair1113/
 [facebook]: https://www.facebook.com/profile.php?id=100012057458839
