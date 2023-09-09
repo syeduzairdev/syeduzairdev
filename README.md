@@ -21,6 +21,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 - 🔭 I’m currently working as a Full Stack Developer Developer.
 - 📫 I am also a Flutter Trainer.
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
+- 💻 Creating beautiful websites in [WordPress][WordPress] with 💙
 - 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
 <!-- <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedUzair42101" alt="SyedUzair42101" /></a> </p>
  -->
