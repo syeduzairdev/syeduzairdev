@@ -4,7 +4,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Websites;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
-<div align="center">
+<div  height="30" width="30 align="center">
 <p >Let's connect!</p>
 
 <a href="https://uzairhassan.com/">
