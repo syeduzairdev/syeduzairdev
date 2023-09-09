@@ -4,8 +4,8 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Websites;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
-<div  height="30" width="30 align="center">
-<p >Let's connect!</p>
+<div align="center">
+<p   height="30" width="30>Let's connect!</p>
 
 <a href="https://uzairhassan.com/">
     <img src="https://img.shields.io/badge/VIEW MY PORTFOLIO-FE7A16?style=for-the-badge&logo=dev.to&logoColor=white" />
