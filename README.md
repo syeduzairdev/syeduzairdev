@@ -1,7 +1,7 @@
  ## Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Uzair (Technotherapist) <br>
 I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Full+Stack+Developer+with+2.5%2B+Years+Of+Experience;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Web+Applications;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+Making+Full+Stack+Mobile+Applications;Passionate+about+Making+Websites;Freelancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -29,10 +29,8 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ### A Software Developer
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 💻 SKILLS: FLUTTER || VUE.JS || GRAPHQL || NODE JS </p>
-- 👯 I’m looking to collaborate on **Flutter Projects**
-- 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
-- 🌱 I’m currently learning C#.
+- 💻 SKILLS: FLUTTER || REACT || GRAPHQL || NODE JS || C# || WORDPRESS </p>
+- 🔭 I’m currently working as a Full Stack Developer Developer.
 - 📫 I am also a Flutter Trainer.
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
 - 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
