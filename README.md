@@ -7,20 +7,9 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.instagram.com/syed_uzair1113/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/syed-uzair-hassan-503640246/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100012057458839">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
 <a href="https://dev.to/syeduzair42101">
-    <img src="https://img.shields.io/badge/DEV_COMMUNITY-FE7A16?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/PROFILE?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 </div>
 <br>
