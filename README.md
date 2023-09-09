@@ -7,9 +7,8 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 <div align="center">
 <p align="center">Let's connect!</p>
 
-
 <a href="https://dev.to/syeduzair42101">
-    <img src="https://img.shields.io/badge/PROFILE?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-FE7A16?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 </div>
 <br>
