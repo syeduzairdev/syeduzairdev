@@ -46,7 +46,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 [![Uzair github stats](https://github-readme-stats.vercel.app/api?username=syeduzairdev&theme=gotham)](https://github.com/syeduzairdev/github-readme-stats)
 <br><br>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=syeduzairdev&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
-<br>
+
 <a href="https://stardev.io/developers/syeduzairdev"><img alt="Check out syeduzairdev's profile on stardev.io" src="https://stardev.io/developers/syeduzairdev/badge/languages/global.svg" /></a>
 <br>
 An avid learner from <b>Pakistan<b> 💚
