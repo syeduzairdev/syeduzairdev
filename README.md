@@ -17,7 +17,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ### A Software Developer
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 💻 SKILLS: FLUTTER || REACT || GRAPHQL || NODE JS || C# || WORDPRESS </p>
+- 💻 SKILLS: FLUTTER || GRAPHQL || NODE JS || C# || WORDPRESS </p>
 - 🔭 I’m currently working as a Full Stack Developer.
 - 📫 I’m also a Tech Trainer.
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
@@ -53,9 +53,9 @@ An avid learner from <b>Pakistan<b> 💚
 
 [flutter]: https://uzairhassan.com/mobile-app-projects/
 [wordPress]: https://uzairhassan.com/websites-projects/
-[linkedin]: https://www.linkedin.com/in/syed-uzair-hassan-503640246/
+[linkedin]: www.linkedin.com/in/syeduzairdev
 [instagram]: https://www.instagram.com/syed_uzair1113/
-[facebook]: https://www.facebook.com/profile.php?id=100012057458839
+[facebook]: https://www.facebook.com/syeduzairdev
  
 
 
