@@ -29,7 +29,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ### A Software Developer
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 💻 FLUTTER || GRAPHQL || NODE JS || C# || WORDPRESS
+- 💻 FLUTTER || GRAPHQL || NODE JS || C# || REACT
 - 🔭 I’m currently working as a Full Stack Developer.
 - 📫 I’m also a Tech Trainer.
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
