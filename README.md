@@ -1,59 +1,75 @@
-# Hola, Uzair (Technotherapist) 👋
+# Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35"> I'm Uzair (Technotherapist)
 
-### Senior Software Engineer | Full Stack | DevOps | AI Automation
-**4+ Years Experience | 50+ Projects Delivered | Open Source Contributor**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE7A16&width=435&lines=Full+Stack+Software+Developer;Flutter+Mobile+Expert;Web+Solutions+Architect;Tech+Trainer+%26+Freelancer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-<div align="left">
+---
+
+### 🚀 About Me
+A passionate **Full Stack Developer** from Pakistan 🇵🇰 dedicated to building high-quality mobile and web applications. When I'm not coding, I'm likely hunting for good food or taking a nap.
+
+- 🔭 **Currently:** Working as a Full Stack Developer & Tech Trainer.
+- 📱 **Mobile:** Crafting beautiful apps with [Flutter][flutter] 💙.
+- 🌐 **Web:** Building robust websites with [WordPress][wordPress] & React.
+- ⚡ **Fun Fact:** My second favorite hobby is traveling; my first is definitely napping.
+
+<p align="left">
   <a href="https://uzairhassan.com/">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FE7A16?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/Check%20My%20Portfolio-FE7A16?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="dart" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="typescript" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=61DAFB" alt="express" />
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white" alt="graphql" />
+  <img src="https://img.shields.io/badge/CSharp-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
+  <br>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syeduzairdev&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syeduzairdev&theme=gotham&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://stardev.io/developers/syeduzairdev">
+    <img alt="Stardev Profile" src="https://stardev.io/developers/syeduzairdev/badge/languages/global.svg" />
   </a>
 </div>
 
 ---
 
-### 🚀 About Me
-I am a Full Stack Developer and Tech Trainer from Pakistan 🇵🇰 passionate about building end-to-end solutions. From crafting high-performance mobile applications to architecting scalable cloud infrastructure, I focus on delivering clean, secure, and performant code.
-
-- 🔭 **Current Focus:** Building AI-driven automation tools for business operations.
-- 🛠️ **Expertise:** Designing complex RESTful APIs and managing scalable DevOps pipelines.
-- 📱 **Mobile:** Expert in building beautiful cross-platform apps with Flutter 💙.
-- 💻 **OS:** Primary development environment is Ubuntu 🐧.
-- 😄 **Fun Fact:** I’m a fan of food, memes, and traveling—but nothing beats a good nap.
-
----
-
-### 💡 Featured Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | PHP, Dart, JavaScript, Python, C#, SQL, TypeScript |
-| **Frameworks** | Flutter, Laravel, React, Next.js, .NET Core, Node.js |
-| **Frontend** | Tailwind CSS, Bootstrap, Livewire, Alpine.js, jQuery |
-| **Backend/DB** | MySQL, MongoDB, PostgreSQL, MSSQL, Redis, GraphQL |
-| **DevOps** | AWS (EC2, S3, Lambda, Cognito), Nginx, CI/CD, Ubuntu, Shell Scripting |
-| **Tools** | Firebase, RevenueCat, AdMob, Git, Postman, Docker |
-
----
-
-### 📝 GitHub Stats
+### 🤝 Connect with Me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeduzairdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Uzair's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syeduzairdev&theme=solarized-dark&hide_border=true" alt="GitHub Streak" height="180" />
+<a href="https://linkedin.com/in/syeduzairdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dev.to/syeduzairdev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/syeduzairdev"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://leetcode.com/syeduzairdev"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://instagram.com/syed_uzair1113"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
----
+<br>
+<p align="center">Built with 💚 by Uzair Hassan</p>
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/syeduzairdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeduzairdev" height="30" width="40" /></a>
-<a href="https://dev.to/syeduzairdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syeduzairdev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/syeduzairdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syeduzairdev" height="30" width="40" /></a>
-<a href="https://instagram.com/syed_uzair1113" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_uzair1113" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syeduzairdev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syeduzairdev" height="30" width="40" /></a>
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</div>
+[flutter]: https://uzairhassan.com/mobile-app-projects/
+[wordPress]: https://uzairhassan.com/websites-projects/
