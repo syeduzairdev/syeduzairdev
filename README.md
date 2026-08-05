@@ -1,4 +1,4 @@
-# 🚀 Uzair Hassan | Senior Software Engineer
+# 🚀 Uzair Hassan | Senior Product Engineer
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE7A16&width=600&lines=Full+Stack+Architect;DevOps+%26+Cloud+Specialist;AI+Automation+Expert;Custom+Chatbot+Architect" alt="Typing SVG" />
